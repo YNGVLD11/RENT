@@ -1,5 +1,6 @@
 // ignore_for_file: unused_import, depend_on_referenced_packages, avoid_print
-//Я ГОНДОН
+//git commit -a -m 'some message';git commit;git push
+
 import 'dart:io';
 
 import 'package:flutter/material.dart';
