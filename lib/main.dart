@@ -1,5 +1,4 @@
 // ignore_for_file: unused_import, depend_on_referenced_packages, avoid_print
-//Я ГОНДОН
 import 'dart:io';
 
 import 'package:flutter/material.dart';
